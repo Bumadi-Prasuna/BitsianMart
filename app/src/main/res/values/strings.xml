@@ -1,0 +1,10 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyDYuVzSNGmiJC2_wXM0rj3EsbT3ThabtkU</string>>
+    <string name="app_name">Bitsian Mart</string>
+    <string-array name="items">
+        <item>>Customers</item>
+        <item>>Retailers</item>
+        <item>>Wholesalers</item>
+    </string-array>
+    >
+</resources>
